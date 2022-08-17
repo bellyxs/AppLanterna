@@ -1,0 +1,17 @@
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\Imagens\off.jpg
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\Imagens\on.jpg
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\AppLanterna.deps.json
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\AppLanterna.dll
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\AppLanterna.pdb
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.dll
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\refint\AppLanterna.dll
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.pdb
+C:\Users\Usuario\Downloads\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\ref\AppLanterna.dll
